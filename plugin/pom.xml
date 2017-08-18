@@ -121,7 +121,7 @@
                 </relocation>
                 <relocation>
                   <pattern>com.zaxxer</pattern>
-                  <shadedPattern>thirdparty.com.zaxxer.HikariCP-java7</shadedPattern>
+                  <shadedPattern>thirdparty.com.zaxxer.HikariCP</shadedPattern>
                 </relocation>
               </relocations>
             </configuration>
